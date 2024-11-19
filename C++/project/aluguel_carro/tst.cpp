@@ -51,7 +51,6 @@ int main(){
         rodando = false;
         break;
 
-        
         default:
         std::cout << "Opção invalida!, Tente novamente." << std::endl;
             break;
